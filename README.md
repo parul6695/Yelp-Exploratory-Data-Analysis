@@ -3,6 +3,6 @@ Exploratory analysis done for the yelp review dataset present at: <a href="https
 
 Files used in this project:
 <br>business.json
-<br>review.json
+<br>review.json 
 <br>stopwords.txt
-Due to large size of review.json, it was not pushed to this repository.
+
