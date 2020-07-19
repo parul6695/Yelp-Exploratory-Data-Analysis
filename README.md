@@ -6,3 +6,10 @@ Files used in this project:
 <br>review.json 
 <br>stopwords.txt
 
+Unable to load review.json and business.json due to large size of file.
+
+Scripts:
+task1.py
+task2.py
+task3.py
+
